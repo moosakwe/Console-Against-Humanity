@@ -1,9 +1,0 @@
-Show player the output of black card prompt + their white card selection(s):
-
-Player_choice, player_choice1, player_choice2 all corrispond to the index of cards
-
-If a card contains a question mark:
-- Simply concantinate the single output (player_choice) with a space and the prompt/black card (prompt)
-
-If a card contains 1 blank
-- search for a single blank and replace it with the white card using player_choice
